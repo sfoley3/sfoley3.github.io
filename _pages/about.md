@@ -17,8 +17,8 @@ Foley, Sean (To appear). The acoustics of apical vowels in two endangered Ngwi l
 
 ## Manuscripts
 
-Foley, Sean (2022). Control and biomechanics in coarticulation: insights from an ultrasound
-study of Standard Mandarin apical vowels. MA Thesis, UNC-Chapel Hill. [link](https://cdr.lib.unc.edu/concern/dissertations/g445cp61m)
+Foley, Sean (2022). *Control and biomechanics in coarticulation: insights from an ultrasound
+study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](https://cdr.lib.unc.edu/concern/dissertations/g445cp61m)
 
 ## Presentations
 

@@ -5,7 +5,7 @@ permalink: /food/
 author_profile: true
 ---
 
-I think a lot about food. I've been particularly influenced by the work of [Michael Pollan](https://michaelpollan.com/), [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain), and [Matt Goulding](https://roadsandkingdoms.com/), among others. Together, their work has made me think a lot about the connection between food, culture, and the environment. In general, I am very much a traditionalist when it comes to food, in that I avoid words like "fusion" and "contemporary" and prefer simple, old-school establishments where ambiance and customer service are mostly disregarded and everything goes into the food. The basic premise is that the ideal food is home-cooked food and extraneous factors retract away from this. 
+I think a lot about food. I've been particularly influenced by the work of [Michael Pollan](https://michaelpollan.com/), [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain), and [Matt Goulding](https://roadsandkingdoms.com/), among others. Together, their work has made me think a lot about the connection between food, culture, and the environment. Following in their footsteps, I also thoroughly enjoy sharing my thoughts about food with others. 
 
 Recently, I have begun to try my best to adhere to as many of the rules in [*Food Rules*](https://michaelpollan.com/books/food-rules/) as I can. Pollan's rules can be summed up into: "Eat food. Not too much. Mostly plants.", where "food" is taken to mean whole foods rather than what he calls "edible foodlike substances", e.g. most of the highly processed packaged food found in supermarkets. One rule I've enjoyed following is "Eat all the junk food you want as long as you cook it yourself". 
 
