@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am first year PhD student in the [Department of Linguistics](https://dornsife.usc.edu/ling/) at the University of Southern California. My research interests are primarily in experimental phonetics, laboratory phonology, and computational linguistics. Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) under the advising of [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/). Before that I was a lecturer at [Shanghai International Studies University](http://en.shisu.edu.cn/). 
+I am a first year PhD student in the [Department of Linguistics](https://dornsife.usc.edu/ling/) at the University of Southern California, advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Shri Narayanan](https://sail.usc.edu/people/shri.html). My research interests are primarily in experimental phonetics, laboratory phonology, and computational linguistics. Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) under the advising of [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/). Before that I was a lecturer at [Shanghai International Studies University](http://en.shisu.edu.cn/). 
 
 
 ## Publications
+
+Foley, Sean. (Accepted). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
 
 Foley, Sean (To appear). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
 

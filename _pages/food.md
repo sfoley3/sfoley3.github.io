@@ -13,9 +13,9 @@ Recently, I have begun to try my best to adhere to as many of the rules in [*Foo
 
 御鲤湘 (Yu Li Xiang)  --- Shanghai, China
 
-葉家小卷米粉 (Ye Jia Xiao Juan Mi Fen) -- Tainan, Taiwan
+O Buraquinho da Sé -- Porto, Portugal
 
-Toyo Sushi -- Osaka, Japan
+[Mayura](https://mayura-indian-restaurant.com/) -- Los Angeles, California
 
 ### Some of my favorite books on food
 
@@ -26,10 +26,10 @@ Toyo Sushi -- Osaka, Japan
 [*The Cooking Gene*](https://thecookinggene.com/) by Michael W. Twitty
 
 
-### Recent eats (*Updated: 10/15/22*)
+### Recent eats (*Updated: 6/30/23*)
 
-Birria quesatacos at [Tacos y Birria La Unica](https://www.instagram.com/tacosybirrialaunica/)
+Grilled black sea bream at [Anajak Thai](https://www.anajakthai.com/)
 
-Khao soi at [Wait Thai of Los Angeles](https://www.watthailosangeles.com/) (weekend only food court)
+Khao soi at [Venice Noodles](https://venicenoodles.com/)
 
-Hotpot at [Chongqing Yaomei Hotpot](http://www.yaomeipasadena.com/)
+Dim sum at [NBC Seafood Restaurant](http://www.nbcrestaurant.com/)
