@@ -28,7 +28,7 @@ O Buraquinho da Sé -- Porto, Portugal
 
 ### Recent eats (*Updated: 10/22/23*)
 
-Questacos at [Villa's Tacos](https://www.villastacos.com/)
+Quesatacos at [Villa's Tacos](https://www.villastacos.com/)
 
 Josui ramen at [Josui Ramen](https://josuiramen.com/)
 
