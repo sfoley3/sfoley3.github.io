@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in the [Department of Linguistics](https://dornsife.usc.edu/ling/) at the University of Southern California, advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Shri Narayanan](https://sail.usc.edu/people/shri.html). My research interests are primarily in experimental phonetics, laboratory phonology, and computational linguistics. Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) under the advising of [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/). Before that I was a lecturer at [Shanghai International Studies University](http://en.shisu.edu.cn/). 
+I am a second year PhD student in the [Department of Linguistics](https://dornsife.usc.edu/ling/) at the University of Southern California, advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Shri Narayanan](https://sail.usc.edu/people/shri.html). I am also a trainee in the [Hearing and Communication Neuroscience](https://sites.usc.edu/hcn/trainees/) program. My research interests are primarily in experimental phonetics, computational speech science, and speech neuroscience. I am a member of the [SAIL](https://sail.usc.edu) lab and [SPAN](https://sail.usc.edu/span/) group. 
+
+Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) under the advising of [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/). Before that I was a lecturer at [Shanghai International Studies University](http://en.shisu.edu.cn/). 
 
 
 ## Publications

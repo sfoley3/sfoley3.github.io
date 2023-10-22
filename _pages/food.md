@@ -19,17 +19,17 @@ O Buraquinho da Sé -- Porto, Portugal
 
 ### Some of my favorite books on food
 
-[*The Omnivore's Dilemma*](https://michaelpollan.com/books/the-omnivores-dilemma/) by Michael Pollan
+[*The Food of Sichuan*](https://wwnorton.com/books/9781324004837) by Fuchsia Dunlop
 
 [*The Telling Room*](https://www.penguinrandomhouse.com/books/127991/the-telling-room-by-michael-paterniti/) by Michael Paterniti
 
 [*The Cooking Gene*](https://thecookinggene.com/) by Michael W. Twitty
 
 
-### Recent eats (*Updated: 6/30/23*)
+### Recent eats (*Updated: 10/22/23*)
 
-Grilled black sea bream at [Anajak Thai](https://www.anajakthai.com/)
+Questacos at [Villa's Tacos](https://www.villastacos.com/)
 
-Khao soi at [Venice Noodles](https://venicenoodles.com/)
+Josui ramen at [Josui Ramen](https://josuiramen.com/)
 
-Dim sum at [NBC Seafood Restaurant](http://www.nbcrestaurant.com/)
+干拌面 at [Mandarin Noodle House](https://mandarinnoodleca.com/)
