@@ -15,9 +15,11 @@ Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](http
 
 ## Publications
 
-Foley, Sean. (Accepted). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
+Foley, Sean, Shao, Bowei, and Faytak, Matthew. (Accepted). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf)
 
-Foley, Sean (To appear). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
+Foley, Sean. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
+
+Foley, Sean (2022). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
 
 ## Manuscripts
 
