@@ -28,6 +28,10 @@ study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](ht
 
 ## Presentations
 
+Foley, Sean, Shao, Bowei, and Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Poster presented at the 13th International Seminar on Speech Production*. [pdf](/files/issp_poster.pdf)
+
+Foley, Sean. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Paper presented at the 20th International Congress of Phonetic Sciences*.
+
 Foley, Sean & Dylan Elliott (2022). Revisiting Central Ngwi Tones: a computational approach. Poster presented at *The Annual Meeting of the Linguistic Society of America*. Washington, D.C. Jan. 6-9. [pdf](/files/Revisiting_CN_tones_lsa.pdf)
 
 Foley, Sean (2021). The acoustics of apical vowels in two endangered Ngwi languages. Paper presented at *The 57th Annual Meeting of the Chicago Linguistic Society*. May 6-8 (Virtual).
