@@ -26,10 +26,10 @@ O Buraquinho da Sé -- Porto, Portugal
 [*The Cooking Gene*](https://thecookinggene.com/) by Michael W. Twitty
 
 
-### Recent eats (*Updated: 10/22/23*)
+### Recent eats (*Updated: 11/15/24*)
 
 Quesatacos at [Villa's Tacos](https://www.villastacos.com/)
 
-Josui ramen at [Josui Ramen](https://josuiramen.com/)
+Seafood pasta  at [Giacomo's](https://www.giacomosboston.com)
 
 干拌面 at [Mandarin Noodle House](https://mandarinnoodleca.com/)
