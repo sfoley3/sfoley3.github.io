@@ -23,10 +23,10 @@ Foley, Sean (2022). The acoustics of apical vowels in two endangered Ngwi langua
 
 ## Manuscripts
 
-Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2024). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. [pdf] (https://arxiv.org/pdf/2409.15525)
+Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2024). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. [pdf](https://arxiv.org/pdf/2409.15525)
 
 Foley, Sean. (2024). Probing articulatory representation learning for phonological
-distinctions. MA Thesis, USC. [pdf] (/files/foley_screening_sprg24_copy.pdf)
+distinctions. MA Thesis, USC. [pdf](/files/foley_screening_sprg24_copy.pdf)
 
 Foley, Sean (2022). *Control and biomechanics in coarticulation: insights from an ultrasound
 study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](https://cdr.lib.unc.edu/concern/dissertations/g445cp61m)
