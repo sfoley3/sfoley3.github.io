@@ -15,7 +15,7 @@ Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](http
 
 ## Publications
 
-Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2024). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. *ICASSP 2025*. [pdf](https://arxiv.org/pdf/2409.15525) 
+Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2025). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. *ICASSP 2025*. [pdf](https://arxiv.org/pdf/2409.15525) 
 
 Foley, Sean, Shao, Bowei, and Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf) 
 
