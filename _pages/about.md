@@ -15,7 +15,9 @@ Before coming to USC, I completed my MA in Linguistics at [UNC-Chapel Hill](http
 
 ## Publications
 
-Foley, Sean, Shao, Bowei, and Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf)
+Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2024). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. *ICASSP 2025*. [pdf](https://arxiv.org/pdf/2409.15525) 
+
+Foley, Sean, Shao, Bowei, and Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf) 
 
 Foley, Sean. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
 
@@ -23,7 +25,7 @@ Foley, Sean (2022). The acoustics of apical vowels in two endangered Ngwi langua
 
 ## Manuscripts
 
-Nguyen, H., Foley, S., Huang, K., Shi, X., Feng, T., & Narayanan, S. (2024). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. [pdf](https://arxiv.org/pdf/2409.15525)
+Foley, S., Nguyen, H., Lee, J., Kadiri, S.R., Byrd, D., Goldstein, L., & Narayanan, S. (2025). Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition. [pdf](https://arxiv.org/pdf/2505.24059?)
 
 Foley, Sean. (2024). Probing articulatory representation learning for phonological
 distinctions. MA Thesis, USC. [pdf](/files/foley_screening_sprg24_copy.pdf)
@@ -34,7 +36,9 @@ study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](ht
 
 ## Presentations
 
-Foley, Sean & Shrikanth Narayanan. (Accepted). Towards large-scale cross-speaker articulatory modeling of vowels. *187th Meeting of the Acoustical Society of America*. November 18-22 (Virtual). 
+Foley, Sean & Louis Goldstein. (2025). Probing articulatory representation learning for phonological distinctions. *Poster presented at Cog Sci 2025*. [pdf](/files/cog_sci_25_poster.pdf)
+
+Foley, Sean & Shrikanth Narayanan. (2024). Towards large-scale cross-speaker articulatory modeling of vowels. *187th Meeting of the Acoustical Society of America*. November 18-22 (Virtual). 
 
 Foley, Sean, Shao, Bowei, & Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Poster presented at the 13th International Seminar on Speech Production*. [pdf](/files/issp_poster.pdf)
 
