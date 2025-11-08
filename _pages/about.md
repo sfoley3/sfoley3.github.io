@@ -27,33 +27,33 @@ Huang, K., **Foley, S.**, Lee, J., Lee, Y., Byrd, D., Narayanan, S. (2025). On t
 
 Nguyen, H., **Foley, S.**, Huang, K., Shi, X., Feng, T., Narayanan, S. (2025). Speech2rtMRI: Speech-Guided Diffusion Model for Real-time MRI Video of the Vocal Tract during Speech. *ICASSP 2025*. [pdf](https://arxiv.org/pdf/2409.15525) 
 
-**Foley, Sean**, Shao, Bowei, and Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf) 
+**Foley, S.**, Shao, B., and Faytak, M. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf) 
 
-Foley, Sean. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
+Foley, S. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/S._icphs_2023.pdf)
 
-Foley, Sean (2022). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
+Foley, S. (2022). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
 
 ## Manuscripts
 
-Foley, Sean. (2024). Probing articulatory representation learning for phonological
+Foley, S.. (2024). Probing articulatory representation learning for phonological
 distinctions. MA Thesis, USC. [pdf](/files/foley_screening_sprg24_copy.pdf)
 
-Foley, Sean (2022). *Control and biomechanics in coarticulation: insights from an ultrasound
+Foley, S. (2022). *Control and biomechanics in coarticulation: insights from an ultrasound
 study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](https://cdr.lib.unc.edu/concern/dissertations/g445cp61m)
 
 
 ## Presentations
 
-Foley, Sean & Louis Goldstein. (2025). Probing articulatory representation learning for phonological distinctions. *Poster presented at Cog Sci 2025*. [pdf](/files/cog_sci_25_poster.pdf)
+Foley, S. & L. Goldstein. (2025). Probing articulatory representation learning for phonological distinctions. *Poster presented at Cog Sci 2025*. [pdf](/files/cog_sci_25_poster.pdf)
 
-Foley, Sean & Shrikanth Narayanan. (2024). Towards large-scale cross-speaker articulatory modeling of vowels. *187th Meeting of the Acoustical Society of America*. November 18-22 (Virtual). 
+Foley, S. & S. Narayanan. (2024). Towards large-scale cross-speaker articulatory modeling of vowels. *187th Meeting of the Acoustical Society of America*. November 18-22 (Virtual). 
 
-Foley, Sean, Shao, Bowei, & Faytak, Matthew. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Poster presented at the 13th International Seminar on Speech Production*. [pdf](/files/issp_poster.pdf)
+Foley, S., Shao, B., & Faytak, M. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Poster presented at the 13th International Seminar on Speech Production*. [pdf](/files/issp_poster.pdf)
 
-Foley, Sean. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Paper presented at the 20th International Congress of Phonetic Sciences*.
+Foley, S.. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Paper presented at the 20th International Congress of Phonetic Sciences*.
 
-Foley, Sean & Dylan Elliott (2022). Revisiting Central Ngwi Tones: a computational approach. Poster presented at *The Annual Meeting of the Linguistic Society of America*. Washington, D.C. Jan. 6-9. [pdf](/files/Revisiting_CN_tones_lsa.pdf)
+Foley, S. & D. Elliott (2022). Revisiting Central Ngwi Tones: a computational approach. Poster presented at *The Annual Meeting of the Linguistic Society of America*. Washington, D.C. Jan. 6-9. [pdf](/files/Revisiting_CN_tones_lsa.pdf)
 
-Foley, Sean (2021). The acoustics of apical vowels in two endangered Ngwi languages. Paper presented at *The 57th Annual Meeting of the Chicago Linguistic Society*. May 6-8 (Virtual).
+Foley, S. (2021). The acoustics of apical vowels in two endangered Ngwi languages. Paper presented at *The 57th Annual Meeting of the Chicago Linguistic Society*. May 6-8 (Virtual).
 
-Foley, Sean (2020). Naruo: an endangered Ngwi language spoken in southwestern China. Paper presented at *The 53rd International Conference on Sino-Tibetan Languages and Linguistics*. Denton, TX (Virtual), Oct. 2-3. [pdf](/files/icstll_53_foley.pdf)
+Foley, S. (2020). Naruo: an endangered Ngwi language spoken in southwestern China. Paper presented at *The 53rd International Conference on Sino-Tibetan Languages and Linguistics*. Denton, TX (Virtual), Oct. 2-3. [pdf](/files/icstll_53_foley.pdf)
