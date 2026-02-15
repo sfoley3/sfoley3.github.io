@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Sean Foley"
+browser_title: "About"
 excerpt: "PhD student in linguistics at USC"
 layout: minimal-black
 redirect_from: 
