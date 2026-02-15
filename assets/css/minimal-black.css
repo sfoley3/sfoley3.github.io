@@ -125,6 +125,22 @@ body {
   text-underline-offset: 2px;
 }
 
+.page-papers .paper-title {
+  color: #4f8dff;
+}
+
+.page-papers article.content a[href*="arxiv.org/pdf"],
+.page-papers article.content a[href$=".pdf"],
+.page-papers article.content a[href*="cdr.lib.unc.edu/concern/dissertations"] {
+  color: #ff4d4d;
+}
+
+.page-papers article.content a[href*="arxiv.org/pdf"]:hover,
+.page-papers article.content a[href$=".pdf"]:hover,
+.page-papers article.content a[href*="cdr.lib.unc.edu/concern/dissertations"]:hover {
+  color: #ff8c8c;
+}
+
 @media (max-width: 640px) {
   body {
     font-size: 17px;
