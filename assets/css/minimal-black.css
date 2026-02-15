@@ -13,7 +13,7 @@ body {
 body {
   background: #070707;
   color: #e8e8e8;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Charter, "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
   font-size: 18px;
   line-height: 1.65;
 }
@@ -123,12 +123,6 @@ body {
 .home-links a {
   text-decoration: underline;
   text-underline-offset: 2px;
-}
-
-.star-break {
-  color: #8d8d8d;
-  letter-spacing: 0.14em;
-  margin: 1.5rem 0;
 }
 
 @media (max-width: 640px) {

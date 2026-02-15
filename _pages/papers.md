@@ -4,8 +4,6 @@ permalink: /papers/
 layout: minimal-black
 ---
 
-### Publications
-
 - **Foley, S.**, Lee, J., Huang, K., Shi, X., Lee, Y., Goldstein, L., Narayanan, S. (2025). A long-form single-speaker real-time MRI speech dataset and benchmark. *arXiv preprint arXiv:2509.14479*. [pdf](https://arxiv.org/pdf/2509.14479)
 - **Foley, S.**, Nguyen, H., Lee, J., Kadiri, S. R., Byrd, D., Goldstein, L., Narayanan, S. (2025). Towards disentangling the contributions of articulation and acoustics in multimodal phoneme recognition. *arXiv preprint arXiv:2505.24059*. [pdf](https://arxiv.org/pdf/2505.24059)
 - Lee, J., **Foley, S.**, Lertpetchpun, T., Huang, K., Lee, Y., Feng, T., Goldstein, L., Byrd, D., Narayanan, S. (2025). ARTI-6: Towards Six-dimensional Articulatory Speech Encoding. *arXiv preprint arXiv:2509.21447*. [pdf](https://arxiv.org/pdf/2509.21447)
@@ -15,22 +13,5 @@ layout: minimal-black
 - **Foley, S.**, Shao, B., Faytak, M. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Proceedings of the 13th International Seminar on Speech Production*. [pdf](/files/ISSP_2024_full.pdf)
 - Foley, S. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Proceedings of the 20th International Congress of Phonetic Sciences*. [pdf](/files/sean_icphs_2023.pdf)
 - Foley, S. (2022). The acoustics of apical vowels in two endangered Ngwi languages. *Proceedings of the 57th Annual Meeting of the Chicago Linguistic Society*. [pdf](/files/cls_57_foley.pdf)
-
-<p class="star-break">* * *</p>
-
-### Manuscripts
-
 - Foley, S. (2024). *Probing articulatory representation learning for phonological distinctions*. MA Thesis, USC. [pdf](/files/foley_screening_sprg24_copy.pdf)
 - Foley, S. (2022). *Control and biomechanics in coarticulation: insights from an ultrasound study of Standard Mandarin apical vowels*. MA Thesis, UNC-Chapel Hill. [link](https://cdr.lib.unc.edu/concern/dissertations/g445cp61m)
-
-<p class="star-break">* * *</p>
-
-### Presentations
-
-- Foley, S., Goldstein, L. (2025). Probing articulatory representation learning for phonological distinctions. *Poster presented at Cog Sci 2025*. [pdf](/files/cog_sci_25_poster.pdf)
-- Foley, S., Narayanan, S. (2024). Towards large-scale cross-speaker articulatory modeling of vowels. *187th Meeting of the Acoustical Society of America*.
-- Foley, S., Shao, B., Faytak, M. (2024). Relating frication to articulation in Standard Mandarin apical vowels. *Poster presented at the 13th International Seminar on Speech Production*. [pdf](/files/issp_poster.pdf)
-- Foley, S. (2023). The coarticulatory behavior of Standard Mandarin apical vowels. *Paper presented at the 20th International Congress of Phonetic Sciences*.
-- Foley, S., Elliott, D. (2022). Revisiting Central Ngwi Tones: a computational approach. *Poster presented at the Annual Meeting of the Linguistic Society of America*. [pdf](/files/Revisiting_CN_tones_lsa.pdf)
-- Foley, S. (2021). The acoustics of apical vowels in two endangered Ngwi languages. *Paper presented at the 57th Annual Meeting of the Chicago Linguistic Society*.
-- Foley, S. (2020). Naruo: an endangered Ngwi language spoken in southwestern China. *Paper presented at the 53rd International Conference on Sino-Tibetan Languages and Linguistics*. [pdf](/files/icstll_53_foley.pdf)

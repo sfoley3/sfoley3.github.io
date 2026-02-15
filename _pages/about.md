@@ -12,13 +12,8 @@ I am a fourth-year PhD student in the [Department of Linguistics](https://dornsi
 
 My research focuses on experimental phonetics, computational speech science, and speech neuroscience. Before USC, I completed an MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) advised by [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and I previously lectured at [Shanghai International Studies University](http://en.shisu.edu.cn/).
 
-<p class="star-break">* * *</p>
-
-You can find my research output on the [Papers](/papers/) page, my food writing on [Food](/food/), and my CV [here](/files/cv_2022.pdf).
-
 <ul class="home-links">
-  <li><a href="/papers/">View Papers</a></li>
-  <li><a href="/food/">Read Food Notes</a></li>
   <li><a href="https://scholar.google.com/citations?user=erduI4oAAAAJ&hl=en">Google Scholar</a></li>
   <li><a href="https://github.com/sfoley3">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/sean-foley-6bb66962/">LinkedIn</a></li>
 </ul>
