@@ -1,8 +1,10 @@
 # main links links
 main:
+  - title: "About"
+    url: /
+
+  - title: "Papers"
+    url: /papers/
+
   - title: "Food"
-    url: /food/  
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /food/
