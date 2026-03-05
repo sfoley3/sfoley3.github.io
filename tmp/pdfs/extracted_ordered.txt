@@ -1,0 +1,874 @@
+===== PAGE 1 (obj 540) =====
+The development of velum coordination in children: a
+real-time MRI study
+Sean Foley
+University of Southern California
+seanfole@usc.edu
+February 15, 2026
+Abstract
+This study examines the development of velum coordination in American English speaking
+children using real-time MRI. We focus specifically on three aspects of velum coordination
+|timing, displacement, and duration, as a function of the syllable positions of the nasal, i.e.
+onset, coda, or juncture geminate positions. It is found that the two oldest speakers, aged 15,
+generally show clear distinctions along these dimensions depending on the syllable position of
+the nasal and that they pattern closely with findings from adults. The younger speakers, ages
+5-14, do not consistently distinguish nasals by syllable position along these dimensions. For
+timing, all younger speakers regularly employed very early velum lowering. These findings are
+discussed with respect to previous theories on the development of coordination and coupling
+modes in speech production, particularly within complex segments.
+1 Introduction
+Speech production necessitates the coordination of various articulators to form constrictions in
+the vocal tract. Mastering this coordination is a fundamental challenge in speech development,
+particularly given that the child learner must cope with a growing vocal tract (McGowan et al.,
+2004). Crucially, articulatory coordination entails coordination in both space and time, and while
+spatiotemporal aspects of coordination, namely coordination or gestural overlap, have received con-
+siderable attention in prior work on speech development (Rubertus and Noiray, 2018; Cychosz et al.,
+2021), articulatory timing is notably less well researched. The current study aims to address this
+considerable gap by looking at articulatory timing specifically, among other aspects of articulatory
+coordination.
+Coordination within segments, such as in complex segments, often requires coordinating multiple
+constrictions in a stable manner that is distinct from coordinating across segments (Shaw et al.,
+2021). Nasal consonants are a prime example of this as they require both the lowering of the velum
+and the raising of the tongue tip (TT). Previous work on adults has demonstrated that the timing
+of these two gestures can vary cross-linguistically (Proctor et al., 2012), depending on the syllable
+position of the nasal (Krakow, 1999; Byrd et al., 2009) and across prosodic conditions (Proctor
+et al., 2012). The development of coordination in complex segments such as nasals is severely
+understudied.
+The current study investigates velum coordination in American English speaking children using
+real-time MRI (rtMRI). This study represents one of the first studies to investigate articulatory
+timing in children, particularly by means of rtMRI. Nasals are a viable case study in examining
+articulatory coordination given that they involve both a velum lowering gesture and tongue tip
+raising gesture. While clear adult patterns in velum coordination have been established, how
+these patterns develop in children is largely a mystery. Indeed, there have been studies on nasal
+coarticulation in children using acoustic measures, but this does not aord the same degree of clarity
+oered by rtMRI in illuminating how children coordinate the velum in speech.
+1
+
+===== PAGE 2 (obj 1) =====
+The rest of the paper is organized as follows. Section 1 dives deeper into the previous literature
+on articulatory coordination, coupling modes, and speech development with reference to nasals
+specifically and states the research questions and hypotheses of the current study. Section 2 outlines
+the methodology employed in the current study, giving an overview of the equipment and analysis
+used. Section 3 discusses the results of the study, dividing them into results concerning velum
+timing, displacement, duration, and the interaction between the three. Section 4 discusses the
+implications of the result with respect to theories of articulatory coordination, coupling modes, and
+development, limitations of the current study, and ways to extend the current work.
+1.1 Articulatory coordination in nasals & complex segments
+Nasal consonants require both the formation of an oral constriction and a lowering of the velum
+to allow airow through the nasal cavity. Unlike other articulators that typically involve muscular
+activation to initiate movement towards its speech production goal, it is primarily inactivation
+of the levator veli palatini that results in velum lowering during nasals (Bell-Berti, 1993; Zajac,
+2015). Nasal breathing with a lowered velum position is also typical during rest. Thus, gestural
+coordination in nasal consonants entails coordinating inactivation of the levator veli palatini and
+activation of the lingual and mandibular musculature involved in the formation of a TT constriction.
+We postulate that this facts plays a critical role in the development of velum coordination in nasal
+consonants.
+The timing of the oral and velum gestures has been found to vary cross-linguistically (Proctor
+et al., 2012; Krakow, 1999), depending on the syllable position of the nasal (Krakow, 1989, 1999;
+Byrd et al., 2009; Oh, 2021), and across prosodic conditions (Byrd et al., 2009; Proctor et al.,
+2012). In a comparison of French and English, Proctor et al. (2012) found velum-TT timing to be
+dierent between French nasal vowels and consonants, with velum loweing preceding vowel target
+achievement in nasal vowels, a pattern that English patterns more closely with. Lag between velum
+and TT onset has been found to vary between onset and coda nasals in American English (Krakow,
+1989, 1999; Byrd et al., 2009), but not so for Korean nasals, with syllable position eects impacting
+the lag between velum raising and TT onset instead (Oh, 2021).
+Focusing on American English, nasals have been shown to exhibit clear timing patterns in adult
+speech dependent on the syllable position of the nasal. In onsets, near synchronous timing of the
+velum lowering and oral constriction gestures is observed, while for coda nasals the two gestures
+asynchronously, with the velum lowering being initiated before the formation of the oral constriction
+(Krakow, 1989, 1999; Byrd et al., 2009). The earliest study demonstrating this was Krakow (1989),
+who employed a Velotrace to track the position of the velum during nasal sequences. Krakow (1989)
+found that, during the production of /m/, lowering of the velum occurred well before the labial
+constriction in coda /m/ and that for onset /m/ the timing was much more synchronous. These
+results were later replicated in Byrd et al. (2009) using rtMRI and focused on the coronal nasal
+/n/. These timing distinctions can be represented graphically using a gestural score, a gestural
+activation matrix that has vocal tract organs on the y-axis and time on the x-axis, shown in Figure
+1 for the words \nab" (left) and \ban" (right). Note that in \nab" the onset if the gestures for the
+velum, TT, and tongue body all occur at the same time. In \ban", it can be seen that the onset
+of the velum gesture occurs well before that of the TT, while the vowel gesture occurs before the
+velum gesture.
+In addition to the bimodal distribution in timing, there is also evidence that this bimodality
+extends also to magnitude of the velum lowering. Generally, a lower velum position is found in coda
+nasals (Krakow, 1999; Byrd et al., 2009; Blaylock et al., 2016). This has also been found in other
+languages, e.g. Hindi (Henderson, 1984). Duration of the velum lowering gesture has also been
+found to vary as a function of syllable position, with coda nasals having longer velum gestures than
+onset nasals (?). In all, previous work has established that speakers of American English modulate
+velum gestures in terms of timing, magnitude, and duration dependent on the syllable position of
+the nasal.
+Articulatory coordination in nasals is also relevant to previous work on the stability of coordi-
+nation in complex segments, i.e. segments involving multiple constrictions. It has been proposed
+that the crucial distinction between complex segments and segment sequences is the stability of
+2
+
+===== PAGE 3 (obj 3) =====
+their coordination (Byrd, 1996; Shaw et al., 2021). For example, Shaw et al. (2021) found that
+onset lag between the two gestures in palatalized consonants in Russian did not vary considerably
+as a function of varying gestural duration, while similar labial-palatal sequences in English did. In
+Hausa, Oh et al. (2024) discovered that stability in onset lag between the larynx and oral gestures
+is critical in distinguishing implosives and their pulmonic counterparts, with implosives displaying
+greater stability in this dimension. Similarly, Korean nasals have been found to have greater sta-
+bility in the lag between velum target achievement and TT raising than onset lag between the two
+gestures, suggesting the former is part of goal in Korean nasal production (Oh, 2021). While timing
+patterns have been investigated in American English nasals, the stability of these patterns has not,
+and as such, it is unknown what temporal relation between the velum and TT exhibits stability in
+these segments.Tract VariablesVelumTongue TipTongue BodyLip ApertureGlottiswidealveolar closedpharyngeal widebilabial closed TimeTract VariablesVelumTongue TipTongue BodyLip ApertureGlottiswidealveolar closedpharyngeal widebilabial closed TimeFigure 1: Gestural scores for word `nab' (left) and `ban' (right).
+1.2 Development of articulatory coordination & nasals
+A particularly robust findings from studies on the development of articulatory coordination is that
+children are more variable or less stable in their coordination than adults (Green et al., 2000; Smith
+and Zelaznik, 2004; Green and Nip, 2010; Terband et al., 2011). In one of the most extensive
+studies to date, Smith and Zelaznik (2004) looked at variability in lip aperture across 180 children
+and adults using a point tracking based method. They found the general trend that very young
+children exhibited much higher variability than adults, but that even kids aged 14 show considerably
+more variability than young adults. A particularly striking additional finding was the plateau in
+variability roughly between the ages 6-12, where little to no change in variability was observed across
+subjects. In some cases, the subjects aged 12 showed more variability than their much younger
+counterparts. There is also a great deal of evidence that children coarticulate more than adults
+(???Abakarova et al., 2022), though this finding is not always replicated (Noiray et al., 2013).
+A number of studies have investigated velopharyngeal function and nasal coarticulation in chil-
+dren (Flege, 1988; Ha and Kuehn, 2006). Acoustic-perceptual studies have suggested that some
+of the early infant vocalizations are produced with a lowered velum and that infants are nasal
+breathers (Zajac, 2015). This likely stems from the close proximity of the epiglottis to the velum in
+infancy, which later separate as the larynx descends (Zajac, 2015). Changes in the velopharyngeal
+region during development can also impact velum action during speech. Lymphoid tissue in the
+nasopharynx, termed the adenoids, grow on the rear pharyngeal wall around age 2 and have been
+speculated to impact velum closure and levator veli palatini activation, given that for some children
+velum closure may involve velar-adenoidal contact rather than pharyngeal contact (Zajac, 2015;
+Perry et al., 2017). In early adolescence, atrophy of the adenoids forces adjustment of the velum
+raising gesture, given changes to the posterior region with which velum contact may previously
+have been made (Zajac, 2015).
+While one early study on anticipatory nasal coarticulation in children found that children have
+less nasalization than adults (), more studies since then have found either no dierence between
+3
+
+===== PAGE 4 (obj 5) =====
+adults and children or that children have more nasalization (Flege, 1988; Leeper et al., 1998; Ha and
+Kuehn, 2006). Flege (1988) investigated anticipatory and carryover nasalization on the vowel in dn
+and nd contexts. They found that children between the ages 5-10 did not dier significantly in their
+vowel nasalization from adults in these two contexts. The authors go on to suggest that early velum
+lowering in final nasals may require less eort than more rapid velum lowering closer to the onset
+of the oral constriction. Ease of eort was also argued to explain earlier velum lowering in children
+with cleft palate (Ha et al., 2004; Ha and Kuehn, 2006), with the authors going on to suggest that
+perhaps less nasalization is associated with the development of speech motor control. A crucial
+shortcoming of this previous work is that it has ignored the larger context concerning velum timing
+patterns employed in adult speech. Specifically, this work has not considered variations in velum
+timing due to dierent syllable positions of the nasal. Often the focus has been on anticipatory
+eects, i.e. coda nasals only, or on nasals in VCV sequences with ambiguous syllabification. For
+example, while Flege (1988) did include onset and coda nasal conditions, they only looked at
+nasalization on vowels in the same word as the nasal, so any potential eects preceding the vowel
+in the nd context were ignored.
+To our knowledge, no previous study has investigated articulatory timing in children. While
+some studies have carried out acoustic experiments that can be used to infer the timing of articula-
+tory actions (Flege, 1988; Ha and Kuehn, 2006; Howson and Redford, 2021), no study has actually
+quantified the timing of one articulatory event relative to another with articulatory data from chil-
+dren. The current study is then the first study to investigate articulatory timing in children, and
+one of the first studies to employ rtMRI to study child speech production. 200 1000100200Early VelumCodaOnset 200 1000100200Synchronous 200 1000100200Early TTOnset Lag (ms)Figure 2: Three hypothetical starting points for the development of velum-TT timing as a function
+of the syllable position of the nasal. Negative values indicate the velum precedes the TT, zero
+indicates perfect synchrony, and positive values indicate the TT precedes the velum.
+1.3 Research questions & predictions
+In this study, we investigated three primary research questions regarding the development of velum
+coordination in American English nasals:
+1. What velum timing strategy is employed by child speakers of American English in the pro-
+duction of nasals?
+2. How do child speakers of American English modulate velum gesture magnitude and duration
+as a function of the syllable position of the nasal?
+3. What timing relation between the TT and velum is stable in American English nasals and at
+what age do children exhibit this stability?
+In regard to Q1, we make the basic assumption that younger children start out with a single
+timing strategy. That is, rather than exhibiting the bimodal timing pattern of adults, the child
+timing distributions are unimodal, regardless of the syllable position of the nasal. This follows from
+the evidence showing that the timing patterns are language-specific and must therefore be learned
+through experience (Cychosz et al., 2021). This premise does not necessarily assume that children
+4
+
+===== PAGE 5 (obj 7) =====
+are coordinating the velum and TT, given that it is possible that they start out not coordinating
+the two gestures. The question of stability (Q3) addresses this. Following the uniform timing
+assumption, theoretically there are three possible timing patterns, visualized in Figure 2. These
+include early velum lowering, synchronous timing, or early raising of the TT. We rule out early
+TT raising given that such a timing pattern is not present in the input and that no previous
+work motivates this possibility. This leaves two competing hypotheses: early velum lowering or
+synchronous timing.
+The synchronous timing hypothesis has been predicted by work within the coupled-oscillator
+framework. Specifically, it has been suggested that the in-phase mode (synchronous timing) is more
+readily available and more stable and that children have learned this mode during babbling, given
+the universal frequency of CV syllables (Goldstein et al., 2006; Nam et al., 2009). While these
+predictions were primarily made with respect to CV timing and coordination, the same coupling
+modes have been proposed to underlie coordination in complex segments (Byrd, 1996; Byrd et al.,
+2009). Kent (1983) also suggested that child speech is more likely to exhibit synchronous timing
+patterns than adults. Both propositions would suggest that children start out producing all complex
+segments with near synchronous timing among their respective gestures and that asynchronous
+timing emerges later in codas. This view is also supported by work showing that children acquire
+coda complex segments later than onsets (Lin and Demuth, 2015).
+The early velum lowering hypothesis can be motivated by limited previous experimental work
+and aspects of velopharyngeal function. As noted above, both Ha and Kuehn (2006) and Flege
+(1988) found that children ages 4-10 exhibited adult-like degrees of vowel nasalization preceding
+coda nasals. This would indicate early velum lowering for coda nasals and, given our assumption of
+uniform timing, hints at early velum lowering as the strategy employed by children. One must also
+consider that velum lowering entails inactivation of the levator veli palatini and that the resting
+state of the velum is in its lowered position (Bell-Berti, 1993; Zajac, 2015). Given knowledge of the
+upcoming nasal, to time the velum to be near synchronous with the TT gesture requires inhibition
+of velum lowering. From this perspective, lowering the velum early may simply be easier for the
+child learner than maintaining activation of the levator veli palatini and coordinating its relaxation
+with TT raising. Similarly, it has been argued that earlier velum lowering in children with cleft
+palate may be due to eort minimization (Ha and Kuehn, 2006). The role of inhibition was also
+proposed by Howson and Redford (2021) for the acquisition of articulatory coordination in liquids.
+They argue that children produce early tongue body retraction in /l/ and /r/ due to a lack of
+inhibition of anticipatory tongue body constrictions for upcoming vowels.
+For Q2, recall above that previous work has demonstrated that adults also show a bimodal
+pattern in velum magnitude and duration, dependent on the syllable position of the nasal. Onset
+nasals have shorter durations and lesser magnitude than coda nasals. Similar with timing, we
+assume that this pattern is language-specific and must be learned. Therefore, as with timing, is
+it predicted that younger children do not make distinctions in velum magnitude or duration when
+varying the nasal syllable position, but rather they adopt a global strategy that is employed across
+the board.
+Q3 addresses not only a question of development but also of timing stability in American English
+nasals more generally. Although previous work has established timing patterns in adult productions
+on American English nasals, they did not investigate the stability of these patterns (Krakow, 1989,
+1999; Byrd et al., 2009). Therefore, it is unknown what sort of timing relation is stable among the
+velum and TT in the production of nasals for this language. Work on palatalized consonants in
+Russian showed onset lag to be stable (Shaw et al., 2021), while for Korean nasals it was shown that
+velum target to TT onset lag was more stable than onset lag (Oh, 2021). In terms of developmental
+patterns, given the robust evidence that children are more variable in their speech motor skills
+(Green et al., 2000; Smith and Zelaznik, 2004), we predict that younger speakers will display less
+stability in the timing relations between the velum and TT. This also leaves open the possibility
+that younger speakers are not yet coordinating the velum and TT, but rather implementing an
+independent velum timing strategy. Concretely, this could involve early velum lowering or near
+synchronous timing on the one hand, but variability in the velum-TT timing relationship as a
+function of varying velum magnitude or duration on the other.
+5
+
+===== PAGE 6 (obj 9) =====
+2 Method
+2.1 Subjects
+A total of seven subjects took part in the study, all of whom were female. Subject ages can be seen
+in Table 1 and range from 5-15 years old. All subjects were monolingual American English speakers
+and reported no history of hearing or speech disorders. The subjects include three pairs of siblings
+and eorts were made to have each sibling complete the study independently. Specifically, the non-
+participating sibling wore noise-canceling headphones while the participating sibling completed the
+familiarization task and MRI scan. All subjects were recruited from the greater Los Angeles area
+and IRB approval was granted for the study. One speaker was excluded from the study due to
+two reasons. First, the speaker had silver crowns which produced an artifact in the MRI video
+that greatly obscured the TT and lowered the resolution of the rest of the image, making analysis
+dicult. Second, the speaker had considerable head movement which also made analysis dicult
+as it relied on fixed region-based analysis that is only accurate if head movement is minimal.ID Age SexSpk5 5 F
+Spk8 8 F
+Spk11a 11 F
+Spk11b 11 F
+Spk14 14 F
+Spk15a 15 F
+Spk15b 15 FTable 1: Subjects in the current study with their age and sex. Subject IDs assigned based on age.
+2.2 Stimuli
+The stimuli used in the study were adapted from Byrd et al. (2009) (Table 1). Given that Byrd
+et al. (2009) had adult subjects, this allows for direct comparison of the results with child subjects
+to adults presented with similar stimuli. Specifically, the stimuli in Byrd et al. (2009) consisted of
+singleton nasals in onset, coda or juncture geminate position within a two-word phrase. The onset
+and coda positions are the primary comparison being made for velum timing, while the juncture
+geminate items create another context, with the possibility of the geminate patterning with either
+onset or coda nasals. In addition to the syllable conditions, labial and alveolar frames are used to
+vary the surrounding context of the target nasals. In the both cases, the nasal is surrounded by
+the vowel [oU] and then either a labial or alveolar. The one exception to this is the items where
+the second word is \OK", which would have a velar to the right. The use of the vowel [oU] is to
+induce jaw lowering and mouth opening, so as to more easily identify the oral constrictions during
+the target nasals. In total, there are 6 target items.
+Stimuli were presented with pictures that match the target phrase. For example, the pictures
+for the phrase \bow no" can be seen in Figure 3. Each set of pictures was chosen so as to be
+age appropriate and all were taken from open source image websites. Each target item was re-
+peated ten times, for a total of 60 spoken items. These items were randomized and blocked within
+singleton/cluster groups. Subjects were familiarized with the six pictures and the carrier phrases
+beforehand. The target words were elicited using the pictures and subjects were instructed to say
+the target word if they said a dierent word.
+2.3 Data collection
+The vocal tract of the speakers was imaged in midsagittal orientation using a 0.55T MRI scanner
+with a custom upper airway receiver coil (Mu~noz et al., 2023), with a reconstructed frame rate
+of 99 frames/sec (See Kumar et al. (2024) for details). Audio was collected at 16 kHz. All data
+was acquired at the USC Dynamic Imaging Science Center. Subjects lied prone within the MRI
+6
+
+===== PAGE 7 (obj 13) =====
+Figure 3: Pictures used for the target phrase \bow no". Subjects were shown this image and were
+also cued to repeat after the experimenter who produced the target phrase in a carrier phrase. For
+these pictures, the subject would hear and repeat \I can type bow no for you".Syllable Position Labial frame Alveolar frame
+I can typefor you I can writeto youonset bow no toe note
+coda bone oh tone oat
+geminate bone no tone noteTable 2: Target phrases containing singleton nasals where labial and alveolar frames surround the
+target nasal with either a labial or alveolar consonant.
+scanner with their head placed within the speech coil. Headphones were worn by all subjects to
+lessen the noise from the scanner and these also acted as headphones through which they could hear
+the experimenter. The picture stimuli were presented to subjects via a television placed behind the
+scanner and a mirror was placed above the subjects face to allow them to view the television. It
+was confirmed for each subject that they had a full view of the television through the mirror and
+adjustments were made to ensure this.
+The general procedure involved two parts: 1) familiarization of the stimuli; 2) the MRI scan.
+During the familiarization task participants were all shown the pictures to be presented during the
+scan and the target phrases were elicited. In cases where the speaker produces a word that diverges
+from the target, they were instructed to produce the target when seeing a particular image. All ten
+images were gone through with participants at least twice. Following presentation of the images, the
+participants were introduced to the repeat-after-me paradigm and were instructed to repeat after
+the experimenter and to use the images as cues to the words spoken. Each subject was instructed
+through multiple examples before being tested on several further examples without instruction.
+Each scan began with both an audio test, to ensure the subject's audio volume is sucient to
+be captured by the microphone, and a hearing test to ensure subjects could hear the experimenter
+directions and cues. Each scan lasted roughly 30 seconds and consisted of four target sentences,
+giving a total of 15 scans per subject for the full stimuli with 10 repetitions. In cases where subjects
+made errors, only errors within the target phrase itself resulted in a repetition of that item. Errors
+in the carrier phrase, e.g. substituting \to" for \for" or vice versa, did not result in a repetition of
+that item.
+7
+
+===== PAGE 8 (obj 17) =====
+2.4 Data Analysis
+2.4.1 Tracking velum and TT kinematics
+Gestural landmarks for the velum lowering and oral constriction formation (onset, target, and
+release) were determined using region-of-interest (ROI) analysis. ROI analysis is commonly used in
+image analysis methods for rtMRI and has been used in a range of studies (Lammert et al., 2010;
+Proctor et al., 2011; Oh et al., 2021; Lu et al., 2022). Velum lowering movement was analyzed using
+the approach detailed in Carignan et al. (2021). First, triangular vocal tract regions-of-interest
+(ROI) were defined for the velum per-speaker, using both anatomical landmarks and observation
+of the resting state during nasal breathing (See Figure ??). The use of triangular ROIs allows for
+minimizing intrusion of the tongue (Oh et al., 2021; Oh, 2021). The horizontal dimension stretches
+from the edge of the posterior nasal spine to the rear pharyngeal wall or the edge of the adenoid
+glands1. The vertical length was defined based on the lowest point of the velum during rest.
+Pixels within these defined regions across all files were submitted to a principle component
+analysis (PCA). From this trained PCA model, the loadings from the first principle component
+(PC1) for each frame generate a 1D timeseries of velum lowering/raising with a sampling rate of
+99 Hz (See Figure 5). Given that variation in velum movement primarily exists along dimensions
+of lowering/raising, PC1 can be said to be the component that best captures this dimension of
+variation. On average, PC1 captures % of variance across speakers, with a standard deviation of. Following Carignan et al. (2021), PC1 loadings were scaled within (0, 1) based on the maximum
+and minimum loading across all files per speaker. The loadings then represent a proportion the
+total range of velum movement. Given that the sign of the PC1 loadings is arbitrary per-speaker,
+the sign of the loadings was ipped so that positive values correspond to greater velum lowering.
+This was determined manually per-speaker by inspecting the timeseries in MVIEWRT (Proctor
+et al., 2011).
+ROIs were also defined independently per-speaker for the TT. Circular ROIs were defined by
+observing TT constrictions during the target nasals, such that the anterior edge contains the area of
+the alveolar ridge where such constrictions are made and the posterior edge contains the left-most
+edge of the tongue during adjacent vowel constrictions. The size of the region was defined such
+that a portion of the tongue body is always present within the region, based on observation of TT
+gestures across multiple files. Change in average pixel intensity was used to track TT kinematics
+(??), such that higher average pixel intensity is indicative of greater constriction, i.e. TT raising.
+For all speakers, excluding Sk5 and Spk7, a single ROI was defined for each articulator across all
+files. Two regions were used for Speaker 5 and Speaker 7 due to head re-positioning mid-study
+requiring new regions be defined.
+All velum and TT ROIs were defined using a publicly available Matlab toolbox2. The resulting
+timeseries from the velum ROI were smoothed using LOESS, with a span of 30 data points, while for
+the TT ROI timeseries locally-weighted linear regression was used (H = 0:05). From 1D timeseries
+for each ROI, gestural landmarks were defined using a custom Python script based on the findgest
+algorithm described in (Tiede, 2010). The relevant TT and velum gestures for each target phrase
+were selected automatically within each file using phrase-level alignments from TextGrids. First-
+pass alignments were automatically generated using the Montreal Forced Aligner (McAulie et al.,
+2017) and corrected by hand.
+Movement onset (GONS) was defined to be the point at which velocity reached 20% of its first
+maximum velocity (PVEL) for the movement towards the target. Target (NONS) was identified as
+the time-point after maximum velocity and before maximum extremum position at which velocity
+fell below a 20% threshold of the first maximum velocity. The maximum displacement of the gesture
+was defined at the velocity minimum closest to the movement's peak (MAXC). The target oset
+(NOFFS) was calculated at the point following maximum displacement at which velocity increased
+above the 20% threshold of the gesture's maximum velocity for the movement away from the target
+(PVEL2) (Carignan et al., 2021; Oh et al., 2024). Movement oset (GOFFS) is then the point at
+which velocity reaches 20% of this second maximum velocity when moving away from the target.1Younger speakers have larger adenoid glands, which tend to protrude beyond the edge of the pharyngeal wall.
+Inclusion of large portions of the adenoid glands obfuscated the variation in velum action captured by PC1.2https://github.com/reedblaylock/VocalTract-ROI-Toolbox
+8
+
+===== PAGE 9 (obj 25) =====
+An example of this can be seen in Figure 5 showing the example target phrase \bow no" with the
+corresponding spectrogram (top) and velum (middle) and TT (bottom) pixel intensity timeseries
+with indicated gestural landmarks.Figure 4: Example ROIs for the TT and Velum for spk8. The TT region tracks movement using
+average pixel intensity, while the velum region uses centroid tracking.
+2.5 Measurements
+The dependent variables calculated from the gestural landmarks can be found in Table 3, grouped
+by their relevance to timing, magnitude, and duration.
+2.6 Statistics
+For each variable, a number of statistical models were fit on the resulting data. To test overall eects
+of certain factors for each variable, linear-mixed models were fit using the lmer package in R. These
+models included fixed eects of syllable position, age, and frame, with interactions between age
+and syllable position, and random speaker eects and random speaker slopes. The primary focus is
+on fixed eects for the interaction between syllable position and age, as we predict developmental
+dierences in the dependent variables as a function of the syllable position of the target nasals.
+Main eects from ANOVAs performed on the linear models using the car package are also reported
+when relevant. To test the dierence between syllable positions within speaker, pairwise Wilcoxon
+tests were performed on all pairwise comparisons, e.g. onset versus coda. Following Shaw et al.
+(2021) and Oh et al. (2024), we use linear regression to investigate the stability of timing patterns
+as a function of variation in velum magnitude and duration. To control for collinearity between
+velum magnitude and duration in these models, we compute partial correlations using the residuals
+from linear regressions predicting magnitude and onset lag from duration. All statistical analysis
+was done on the raw values without normalizing. This follows from the values for each variable
+falling roughly on the same scale across speakers and this allows for interpreting model coecients
+with respect to meaningful real-world values. Full statistical results are reported in the Appendix.
+3 Results
+3.1 Timing
+To provide a sense of the distributions for onset lag across syllable positions, Figure 6 shows per
+speaker density plots for this variable, ordered by age. Negative lag here indicates early velum
+9
+
+===== PAGE 10 (obj 36) =====
+Figure 5: Example spectrogram (top) and TT (middle) and velum (bottom) timeseries from the
+ROI analysis with gestural landmarks indicated.
+10
+
+===== PAGE 11 (obj 83) =====
+MeasureTiming (ms) onset lag Velum ONS - TT ONS
+tt phaseTT ONS - Velum ONSVelum DurationMagnitude MAXC - ONSDuration (ms) OFFS - ONS
+Table 3: Dependent variables used in the current study grouped by timing, displacement and
+duration.
+lowering, while zero is indicative of sychrony between the velum and TT. A number of observations
+can be made here. First, the two oldest speakers, age 15, exhibit clear bimodal distributions that
+follow previous results from adults. Onset nasals tend to involve near synchrony between the
+timing of the velum and TT, while coda and geminate nasals tend to have early velum lowering.
+For all other speakers, there is a clear lack of bimodality in the distrbiutions, with early velum
+lowering being prevalent in all syllable conditions. The mixed model shows a significant interaction
+between onset lag and age for nasals in onset position (fi = 15:2; p < 0:001), suggesting as speakers
+get older onset lag moves closer to zero. There is also a significant eect of the labial frame
+(fi = 34:8; p < 0:001), indicating more synchronous timing in this frame than the alveolar frame.Figure 6: Density plots for onset lag compared across nasal syllable position with one plot per
+speaker. Speakers are arranged from top left to bottom right by age. Red stars indicate significant
+results from per-speaker pairwise Wilcoxon tests on syllable position comparisons.
+While the results from onset lag indicate that the younger speakers employ early velum lowering
+regardless of the syllable position of the nasal, this variable does not reveal when these speakers
+time the onset of the TT relative to the velum gesture. To investigate this, we quantify at what
+relative point during the velum gesture interval that the TT gesture begins, termed here as TT
+phase. Per speaker density plots for this variable are shown in Figure 7. As a reference point,
+we also include the average relative time point for all of the velum gestural landmarks. As with
+onset lag, the two oldest speakers exhibit a more bimodal pattern where TT phase in onset nasals
+diverges from the other two conditions, with the TT being initiated closer to the onset of the velum
+gesture. The younger speakers all have largely unimodal distributions centered close to the time
+the velum reached peak velocity or its target. While the reference points are based on averages,
+the results here still suggest that the younger speakers wait until the velum is at or near its target
+11
+
+===== PAGE 12 (obj 89) =====
+before initiating the TT gesture.Figure 7: Density plots of the TT phase variable as compared across nasal syllable position with
+one plot per speaker. Speakers are arranged from top left to bottom right by age. The x-axis is
+relative time within the velum gesture duration and horizontal lines show average relative gestural
+landmark position for the velum.
+3.2 Magnitude
+Per speaker boxplots for velum magnitude are shown in Figure 8. As with onset lag, the two oldest
+speakers exhibit a clear distinction between onset nasals and both coda and geminate nasals, with
+onset nasals having significantly less velum magnitude. Interestingly, coda nasals also show much
+greater velum magnitude than geminates for these two speakers, likely attributable to coda eects.
+Some younger speakers produce greater velum magnitude in geminates than onsets, e.g. spk14
+and spk11a and to a lesser extent in spk5 and spk8, though none of these speakers demonstrate the
+expected adult onset-coda distinction along this dimension. Results from the mixed model for velum
+magnitude show a significant interaction between age and onset position ((fi =  0:08; p < 0:05)),
+indicating less velum magnitude in onset nasals as one gets older. There was also a significant
+fixed eect of the labial frame (fi = 0:22; p < 0:001), suggesting greater velum magnitude when
+producing nasals in this frame. In the alveolar frame, the TT likely maintains a more raised position
+in anticipation of the upcoming nasal, resulting in greater change in TT position than in the labial
+frame condition.
+3.3 Duration
+Per-speaker boxplots for velum duration are shown in Figure 10. As with onset lag and velum
+magnitude, the two oldest speakers exhibit the expected adult pattern in that onset nasals have
+siginificantly shorter velum gestures than coda and geminate nasals. Two of the younger speakers,
+spk8 and spk14, produce longer velum gestures in geminates than onsets and codas. Surprisingly,
+spk11a displays shorter velum gestures in codas than the other two syllable positions. Other
+speakers have fairly uniform velum gesture durations across syllable positions. Results from the
+mixed model show a significant interaction between age and onset position (fi =  32:7; p < 0:001),
+indicating shorter velum gestures in onset nasals as one ages. The fixed eect of the labial frame was
+also significant (fi =  22:1; p < 0:01), suggestive of shorter velum gestures in this frame condition.
+12
+
+===== PAGE 13 (obj 93) =====
+Figure 8: Per speaker box plots for velum displacement across syllable positions. Red stars indicate
+significant results from per-speaker pairwise Wilcoxon tests on syllable position comparisons.
+The results for TT duration are shown in Figure 11. There is a general trend across speakers
+that geminate nasals have longer TT durations than both onsets and codas, though there is no
+dierence between onset and coda nasals.
+3.4 Timing stability
+To investigate the stability of timing relationships between the velum and TT, we fit per-speaker
+linear regressions between timing variables and velum magnitude and duration. Significant corre-
+lations between the timing and magnitude or duration indicate a lack of stability, while absence of
+a correlation is suggestive of the timing relationship being stable for that speaker. In addition to
+onset lag, we also include velum target to TT onset lag (velum NONS - TT GONS, referred to as
+target-onset lag hereon), given that the results from TT phase showed that speakers tend to initiate
+the TT near the time the velum achieves its target. We also fit linear mixed models predicting each
+timing variable given velum magnitude and duration and their interaction with age (a three-way
+interaction).
+As stated above, these regressions involve partial correlations to control for collinearity between
+velum magnitude and duration. To confirm this, we fit linear regressions predicting magnitude
+from duration for both the velum and TT. Figure 12 shows the results for this per-speaker. As
+suspected, a majority of speaker demonstrate a significant correlation between velum magnitude an
+duration. The same results for the TT are shown in Figure 13. All speakers except spk15b show a
+significant correlation between TT magnitude and duration. While these relationships are not fully
+consistent across speakers, controlling for this collinearity allows for consistency in our statistical
+models.
+Figures 14 and 15 partial correlations between onset lag and velum magnitude and duration
+respectively. Noticeably, all speakers exhibit a significant correlation between onset lag and either
+velum magnitude or duration. While all speakers show this correlation for velum duration, a few
+speakers do not for velum magnitude. This consistency is highly indicative of a lack of stability
+13
+
+===== PAGE 14 (obj 97) =====
+Figure 9: Per speaker box plots for TT magnitude across syllable positions. Red stars indicate
+significant results from per-speaker pairwise Wilcoxon tests on syllable position comparisons.
+in this timing variable. The negative correlations across both variable point towards earlier velum
+lowering being accompanied by greater velum magnitude and longer velum gestures. The mixed
+model for onset lag shows main eects of velum duration (F(1, 374.49) = 11.6, p < 0:001), velum
+magnitude (F(1, 372.5) = 8.5, p < 0:01), the interaction between velum magnitude and duration
+(F(1, 376.3) = 5.2, p < 0:05), and frame (F(1, 374.98) = 55.3, p < 0:001). Age and interactions
+with age were not found to be significant.
+Results from partial correlations between target-onset lag and velum magnitude and duration
+are shown in Figures 16 and 17 respectively. Note that negative target-onset lag indicates the
+velum target is achieved before the TT onset, while positive values mean the TT onset occurs first.
+With the exception of the two youngest speakers, spk5 and spk8, there is a clear trend across the
+older speakers that no significant correlations are found across the two sets of correlations. Spk5
+shows significant correlations for both comparisons, while spk8 has a significant correlation in the
+duration comparison only. Compared to the results from onset lag, the target-onset relationship
+is much more stable across speakers. This closely mirrors results from Korean adults (Oh, 2021),
+though it has not been previously reported for English. The mixed model for target-onset lag shows
+significant main eects of velum duration (F(1, 374.58) = 19.78, p < :001), age (F(1, 122.59) = 5.03,
+p = .027), and frame (F(1, 372.59) = 39.48, p < :001). In addition, there are significant interactions
+between velum magnitude and duration (F(1, 374.05) = 9.67, p = .002), age and velum duration
+(F(1, 374.67) = 13.95, p < :001), and a significant three-way interaction between velum magnitude,
+duration, and age (F(1, 373.77) = 7.10, p = .008). Crucially, age and its interactions were not found
+to be significant in the model for onset lag, while both age and all of its interactions were significant
+in the target-onset lag model. We take this as evidence that, as suggested in the correlation plots,
+there are no developmental dierences in the stability of onset lag, while for target-onset lag there
+are significant dierences, with some younger speakers showing a lack of stability in this variable.
+14
+
+===== PAGE 15 (obj 101) =====
+Figure 10: Per speaker box plots for velum gesture duration across syllable positions. Red stars
+indicate significant results from per-speaker pairwise Wilcoxon tests on syllable position compar-
+isons.
+4 Discussion
+To recapitulate, the results showed that the two oldest speakers, age 15, essentially replicate the
+velum coordination patterns previously reported for adults. Both speakers exhibit near synchronous
+timing of the velum and TT gestures in onset nasals and produce early velum lowering in coda and
+geminate nasals. These speakers also modulate velum gesture duration and magnitude depending
+on syllable position, with onset nasals having lesser velum magnitude and shorter velum gestures
+than coda and geminate nasals. The younger speakers, ages 5-14, all employ early velum lowering,
+regardless of the syllable position of the nasal, and do not consistently make distinctions between
+onset and coda nasals in terms of velum magnitude and duration. For timing stability, across
+speakers it was found that velum target to TT onset lag was more stable than onset lag as a function
+of varying velum magnitude and duration. Some younger speakers, especially spk5, however, did
+not consistently display stability in either timing variable.
+For timing, it was predicated that younger speakers will display a uniform timing strategy in
+velum coordination. This prediction was borne out as all speakers ages 5-14 exhibited largely
+unimodal distributions in onset lag and in the phasing of the TT. Regarding the timing strategy
+itself, we acknowledged two competing hypotheses, early velum lowering or synchronous timing,
+each with their own motivation. The results support the early velum lowering hypothesis as all
+younger speakers exhibited this strategy across all nasal syllable positions. This finding is in line
+with previous work showing that children have as much as or more anticipatory nasalization than
+adults (Flege, 1988; Leeper et al., 1998; Ha and Kuehn, 2006), given that this assumes early velum
+lowering. The synchronous timing hypothesis stemmed from work within the coupled oscillator
+framework that has proposed that in-phase or synchronous timing is more stable than anti-phase or
+asychronous timing and that in-phase coupling is more readily available to the child learner due to
+the frequency of CV syllables in early speech (Goldstein et al., 2006; Nam et al., 2009). Although
+the current study only focused on nasals, it nonetheless suggests that this reasoning does not extend
+15
+
+===== PAGE 16 (obj 105) =====
+Figure 11: Per speaker box plots for TT gesture duration across syllable positions. Red stars indicate
+significant results from per-speaker pairwise Wilcoxon tests on syllable position comparisons.Figure 12: Per-speaker correlation graphs for velum displacement and duration with results from
+linear regression.
+to the development of articulatory timing in complex segments.
+The early velum lowering strategy is consistent with the view that velum lowering is likely more
+readily available to the child learner and to lower the velum early is easier than maintaining velum
+closure, which requires constant activation of the levator levi palatini, and timing its lowering to
+coincide with the TT raising gesture. Early infant vocalizations commonly feature velum lowering
+16
+
+===== PAGE 17 (obj 111) =====
+Figure 13: Per-speaker correlation graphs for TT displacement and duration with results from linear
+regression.Figure 14: Per-speaker correlation graphs for onset lag and velum displacement with results from
+linear regression when controlling for duration.
+and a lowered velum is the default state at rest (Zajac, 2015). The child must learn to raise the
+velum and maintain this closure during oral segments, an action that may be further complicated by
+growth and reduction of the adenoids between the ages of 4-15 (Zajac, 2015; Perry et al., 2017). This
+can be reframed as development in velum coordination entails learning to inhibit velum lowering
+in onset nasals and timing this event to closely coincide with the oral constriction. Although this
+explanation is largely a biomechanical one, language-specific phonology also plays a role here. We
+do not expect the same degree of velum lowering in similar contexts in languages that contrast
+oral and nasal vowels, e.g. French. To nasalize preceding vowels in English does not endanger any
+phonological contrasts, while in French it would. We speculate then that in a language such as
+French that children still lower the velum earlier than adults, but that velum lowering for nasal
+consonants is distinct in timing from that for nasal vowels. Children likely maintain this distinction
+17
+
+===== PAGE 18 (obj 117) =====
+Figure 15: Per-speaker correlation graphs for onset lag and velum gesture duration with results
+from linear regression when controlling for displacement.Figure 16: Per-speaker correlation graphs for velum target to TT onset lag and velum displacement
+with results from linear regression when controlling for duration.
+from an early age, but velum lowering for nasal consonants is still earlier than it is in adults.
+This explanation for early velum lowering also does not necessarily apply to the development
+of articulatory timing in other complex segments, though it is compatible with the explanation
+by Howson and Redford (2021) for the acquisition of articulatory timing in liquids. The authors
+postulate that tongue body constrictions for vowels are well-formed and readily available to the
+child learner and thus to form an early tongue body constriction in onset liquids is easier than
+inhibiting this action and timing it near synchronously with the oral constriction. Concretely,
+children prefer articulatory postures that are familiar, i.e. vowel-like tongue body constrictions and
+a lowered velum state, and are biased towards these familiar states or actions when they useful.
+This could also be framed as articulatory reuse, in that there is a preference to reuse articulatory
+primitives (Faytak, 2018), such as velum lowering or tongue body retraction, as an ecient meaning
+18
+
+===== PAGE 19 (obj 123) =====
+Figure 17: Per-speaker correlation graphs for velum target to TT onset lag and velum gesture
+duration with results from linear regression when controlling for displacement.
+of achieving multiple constrictions for complex segments. Learning to inhibit the reused gesture then
+forms a critical component in the development of articulatory coordination in complex segments.
+Investigation into the stability of timing between the velum and TT showed that, while all
+speakers displayed some variation in onset lag as a function of variation in velum magnitude or
+duration, many speakers consistently did not show this variation in the lag between velum target
+achievement and TT onset. This closely mirrors the results from Korean adults (Oh, 2021). As
+was suggested for Korean, we take these results to mean that the velum target to TT onset timing
+is encoded in the cognitive representations for nasals in American English. There was also the
+question of whether or not younger speakers are even coordinating the velum and the TT at all.
+Although speakers could exhibit a lack of distinction in velum-TT timing due to changes in syllable
+position, we suggested that stability in this timing relationship along some dimension could still
+indicate that there is in fact coordination between the two gestures. This can be seen clearly for
+spk11a and spk14, who both produce a fairly uniform timing strategy across syllable positions, but
+show stability in the velum target to TT onset lag when there is variation in velum magnitude
+and duration. The same cannot be said for spk5, spk8, and spk11b, who exhibit a lack of stability
+in both onset lag and velum target to TT onset lag, while also producing uniformly early velum
+lowering. This may suggests these speakers have yet to learn to coordinate the velum and TT.
+Although the results from timing display developmental stages of unimodal to bimodal timing
+patterns, there is a clear lack of developmental progression from one stage to the other. All speakers
+aged 5-14 show fairly uniform distributions and then the two oldest speakers suddenly exhibit clear
+bimodality.
+One potential confound for the lack of distinction in younger speakers between onset and coda
+nasals along the dimensions investigated here is that perhaps these speakers just simply aren't
+making any distinction among the dierent target phrases within the labial/coronal frames. That
+is, they aren't distinguishing \bow no" and \bone oh", but are rather producing a single disyllabic
+sequence across both sets of tokens. None of the other results, e.g. TT duration or magnitude,
+suggest a distinction between the onset and coda positions. To investigate this, we looked at the
+duration of the vowels in the target phrases, results for which are in Figure 18. The results indicate
+that for nearly all speakers the vowel in the second syllable is much longer in the coda condition
+than in the onset condition. This dierence is significant for all speakers except spk8, though this
+distinction is still evident for this speaker. This findings makes sense given that the V2 in the coda
+condition appears in isolation. This provides evidence that, while the younger speakers are not
+making timing, magnitude, or duration distinctions in velum coordination dependent on varying
+19
+
+===== PAGE 20 (obj 127) =====
+syllable positions, they are still actually producing distinct utterances across the onset and coda
+conditions.Figure 18: Per speaker box plots for vowel duration across syllable positions, where V1 and V2
+indicate the vowel in the first and second syllable respectively. Red stars indicate significant results
+from per-speaker pairwise Wilcoxon tests on syllable position comparisons.
+Various extension of the current study are feasible. First, the current study only investigated
+American English, which itself has specific velum timing patterns. Replicating this study on other
+languages with dierent velum timing patterns, e.g. Korean, French or German, is highly encour-
+aged. Language-specific constraints on nasalization are naturally expected to impact developmental
+patterns. For example, given that French contrasts oral and nasal vowels, while American English
+does not, an early velum lowering strategy has dierent implications for French than it does Amer-
+ican English. Cross-linguistic findings can also reveal aspects of the development of velum coor-
+dination that are due to physiological factors, such as the reduction in size of the adenoid glands
+potentially impacting velum closure. Second, the current study did not investigate coordination of
+the velum and TT with either adjacent vowel. It has been proposed that in onset nasals the TT,
+velum, and vowel are initiated sychronously (), while for coda nasals it is a bit unclear what is
+expected (). For a simplex segment such as /t/, the vowel and TT are expected to be phased asy-
+chronously, but when an additional gesture is present, as in nasals, how such an additional gesture
+is timed with respect to the vowel is largely unknown.
+There are a number of limitatons to the current study. First, the participants were all female,
+which limits generalizing the results of the study to all children, especially given developmental
+dierences between boys and girls (Smith and Zelaznik, 2004). Replicating the current study
+with male subjects would allow for better generalizing the results to speech development more
+broadly. If boys ages 5-14 also exhibit the patterns shown here with respect to timing, magnitude,
+and duration of the velum, it would be more suggestive of these patterns being typical in the
+development of American English nasals. Second, the sample size here is relatively small, also
+limiting generalizability, especially given that developmental trajectories can vary highly across
+people (Nittrouer, 1993). As noted above, there is a clear lack of progression from the unimodal
+timing patterns in the younger subjects to the bimodal patterns of the two oldest speakers. Whether
+or not this actually reects the typical developmental trajectory of velum timing or is due to the
+small sample size can only be determined by replicating this study on more subjects. Lastly, the
+current study only included nasals in the low vowel context. Although this was intentional, it
+does not allow us to account for potential velum lowering eects intrinsic to the vowels themselves
+(Bell-Berti and Krakow, 1991). It has been established that low vowels have more velum lowering
+than high vowels (Bell-Berti, 1993; Zajac, 2015) and, as discussed above, we cannot rule out the
+20
+
+===== PAGE 21 (obj 131) =====
+role of these eects in biasing the younger subjects towards early velum lowering.
+5 Conclusion
+References
+Abakarova, D., Fuchs, S., and Noiray, A. (2022). Developmental Changes in Coarticulation Degree
+Relate to Dierences in Articulatory Patterns: An Empirically Grounded Modeling Approach.
+Journal of Speech, Language, and Hearing Research, 65(9):3276{3299.
+Bell-Berti, F. (1993). Understanding velic motor control: studies of segmental context. In Nasals,
+nasalization, and the velum, pages 63{85. Elsevier.
+Bell-Berti, F. and Krakow, R. A. (1991). Anticipatory velar lowering: A coproduction account. The
+Journal of the Acoustical Society of America, 90(1):112{123.
+Blaylock, R., Goldstein, L., and Narayanan, S. S. (2016). Velum Control for Oral Sounds. In
+INTERSPEECH, pages 1084{1088.
+Byrd, D. (1996). Inuences on articulatory timing in consonant sequences. Journal of Phonetics,
+24(2):209{244.
+Byrd, D., Tobin, S., Bresch, E., and Narayanan, S. (2009). Timing eects of syllable structure and
+stress on nasals: A real-time MRI examination. Journal of Phonetics, 37(1):97{110.
+Carignan, C., Coretta, S., Frahm, J., Harrington, J., Hoole, P., Joseph, A., Kunay, E., and Voit, D.
+(2021). Planting the seed for sound change: Evidence from real-time MRI of velum kinematics
+in German. Language, 97(2):333{364.
+Cychosz, M., Munson, B., and Edwards, J. R. (2021). Practice and experience predict coarticulation
+in child speech. Language learning and development, 17(4):366{396.
+Faytak, M. D. (2018). Articulatory uniformity through articulatory reuse: insights from an ultra-
+sound study of Suzhou Chinese. University of California, Berkeley.
+Flege, J. E. (1988). Anticipatory and carry-over nasal coarticulation in the speech of children and
+adults. Journal of Speech, Language, and Hearing Research, 31(4):525{536.
+Goldstein, L., Byrd, D., and Saltzman, E. (2006). The role of vocal tract gestural action units
+in understanding the evolution of phonology. Action to language via the mirror neuron system,
+pages 215{249.
+Green, J. R., Moore, C. A., Higashikawa, M., and Steeve, R. W. (2000). The physiologic devel-
+opment of speech motor control: Lip and jaw coordination. Journal of Speech, Language, and
+Hearing Research, 43(1):239{255.
+Green, J. R. and Nip, I. S. B. (2010). Some organization principles in early speech development.
+In Maassen, B. and van Lieshout, P., editors, Speech Motor Control: New developments in basic
+and applied research, page 0. Oxford University Press.
+Ha, S. and Kuehn, D. (2006). Temporal characteristics of nasalization in children and adult speakers
+of American English and Korean during production of three vowel contextsa). The Journal of
+the Acoustical Society of America, 120(3):1622{1630.
+Ha, S., Sim, H., Zhi, M., and Kuehn, D. P. (2004). An acoustic study of the temporal characteristics
+of nasalization in children with and without cleft palate. The Cleft palate-craniofacial journal,
+41(5):535{543.
+Henderson, J. B. (1984). VELOPHARYNGEAL FUNCTION IN ORAL AND NASAL VOWELS:
+A CROSS-LANGUAGE STUDY (VELUM). University of Connecticut.
+21
+
+===== PAGE 22 (obj 133) =====
+Howson, P. J. and Redford, M. A. (2021). The acquisition of articulatory timing for liquids:
+Evidence from child and adult speech. Journal of Speech, Language, and Hearing Research,
+64(3):734{753.
+Kent, R. D. (1983). The segmental organization of speech. In The production of speech, pages
+57{89. Springer.
+Krakow, R. A. (1989). The articulatory organization of syllables: A kinematic analysis of labial
+and velar gestures. Yale University.
+Krakow, R. A. (1999). Physiological organization of syllables: a review. Journal of Phonetics,
+27(1):23{54.
+Kumar, P., Tian, Y., Lim, Y., Cui, S. X., Hagedorn, C., Byrd, D., Sinha, U. K., Narayanan, S.,
+and Nayak, K. S. (2024). State-of-the-art speech production MRI protocol for new 0.55 Tesla
+scanners. In Interspeech 2024, pages 2590{2594.
+Lammert, A. C., Proctor, M. I., Narayanan, S. S., and others (2010). Data-driven analysis of
+realtime vocal tract MRI using correlated image regions. In Interspeech, pages 1572{1575.
+Leeper, H. A., Tissington, M. L., and Munhall, K. G. (1998). Temporal Characteristics of Velopha-
+ryngeal Function in Children. The Cleft Palate Craniofacial Journal, 35(3):215{221.
+Lin, S. and Demuth, K. (2015). Children's acquisition of English onset and coda/l: Articulatory
+evidence. Journal of Speech, Language, and Hearing Research, 58(1):13{27.
+Lu, Y., Wiltshire, C. E., Watkins, K. E., Chiew, M., and Goldstein, L. (2022). Characteristics
+of articulatory gestures in stuttered speech: A case study using real-time magnetic resonance
+imaging. Journal of Communication Disorders, 97:106213.
+McAulie, M., Socolof, M., Mihuc, S., Wagner, M., and Sonderegger, M. (2017). Montreal forced
+aligner: Trainable text-speech alignment using kaldi. In Interspeech, volume 2017, pages 498{502.
+McGowan, R. S., Nittrouer, S., and Manning, C. J. (2004). Development of [] in young, Midwestern,
+American children. The Journal of the Acoustical Society of America, 115(2):871{884.
+Mu~noz, F., Lim, Y., Cui, S. X., Stark, H., and Nayak, K. S. (2023). Evaluation of a novel 8-channel
+RX coil for speech production MRI at 0.55 T. Magnetic Resonance Materials in Physics, Biology
+and Medicine, 36(3):419{426.
+Nam, H., Goldstein, L., and Saltzman, E. (2009). Self-organization of syllable structure: A coupled
+oscillator model. Approaches to phonological complexity, 16:299{328.
+Nittrouer, S. (1993). The emergence of mature gestural patterns is not uniform: Evidence from an
+acoustic study. Journal of Speech, Language, and Hearing Research, 36(5):959{972.
+Noiray, A., Menard, L., and Iskarous, K. (2013). The development of motor synergies in chil-
+dren: Ultrasound and acoustic measurements. The Journal of the Acoustical Society of America,
+133(1):444{452.
+Oh, M. (2021). Articulatory dynamics and stability in multi-gesture complexes. PhD Thesis, Uni-
+versity of Southern California.
+Oh, M., Byrd, D., Goldstein, L., and Narayanan, S. S. (2024). Vertical larynx actions and interges-
+tural timing stability in Hausa ejectives and implosives. Phonetica, 81(6):559{597.
+Oh, M., Byrd, D., and Narayanan, S. S. (2021). Leveraging real-time MRI for illuminating linguistic
+velum action. In Interspeech.
+Perry, J. L., Kuehn, D. P., Sutton, B. P., and Fang, X. (2017). Velopharyngeal Structural and Func-
+tional Assessment of Speech in Young Children Using Dynamic Magnetic Resonance Imaging.
+The Cleft Palate Craniofacial Journal, 54(4):408{422.
+22
+
+===== PAGE 23 (obj 135) =====
+Proctor, M., Lu, L. H., Zhu, Y., Goldstein, L., Narayanan, S., and others (2012). Articulation of
+Mandarin Sibilants: a multi-plane realtime MRI study. Proc. Speech Sci. Tech, pages 113{116.
+Proctor, M. I., Lammert, A. C., Katsamanis, A., Goldstein, L. M., Hagedorn, C., Narayanan,
+S. S., and others (2011). Direct Estimation of Articulatory Kinematics from Real-Time Magnetic
+Resonance Image Sequences. In Interspeech, pages 281{284.
+Rubertus, E. and Noiray, A. (2018). On the development of gestural organization: A cross-sectional
+study of vowel-to-vowel anticipatory coarticulation. PloS one, 13(9):e0203562.
+Shaw, J. A., Oh, S., Durvasula, K., and Kochetov, A. (2021). Articulatory coordination distin-
+guishes complex segments from segment sequences. Phonology, 38(3):437{477.
+Smith, A. and Zelaznik, H. N. (2004). Development of functional synergies for speech motor
+coordination in childhood and adolescence. Developmental psychobiology, 45(1):22{33.
+Terband, H., Maassen, B., Van Lieshout, P., and Nijland, L. (2011). Stability and composition
+of functional synergies for speech movements in children with developmental speech disorders.
+Journal of communication disorders, 44(1):59{74.
+Tiede, M. (2010). MVIEW: Multi-channel visualization application for displaying dynamic sensor
+movements. development.
+Zajac, D. J. (2015). Velopharyngeal Function in Speech Production: Some Developmental and
+Structural Considerations. The handbook of speech production, pages 109{130.
+Appendix
+A: Results from statistical tests
+Table 4: Fixed-eect coecients for the model comparing onset lag across syllable position, age,
+frame. Formula: lagonset  condition * age + frame + (1 + condition j speaker)Eect Estimate Std. Error df t value p value(Intercept) -297.403 29.782 6.185 -9.986 4.83e-05
+condition:coda 44.995 47.185 5.426 0.954 0.38083
+condition:geminate -17.294 28.257 15.886 -0.612 0.54917
+age 15.236 2.478 5.781 6.148 0.00098
+frame:labial 34.786 5.581 370.378 6.233 1.24e-09
+condition:coda:age -6.737 3.971 5.304 -1.697 0.14719
+condition:geminate:age -1.821 2.327 14.290 -0.783 0.44646Table 5: Fixed-eect coecients for the model comparing TT phase across syllable position, age,
+frame. Formula: TT phase  condition * age + frame + (1 + condition j speaker)Eect Estimate Std. Error df t value p value(Intercept) 0.433143 0.093113 5.295 4.652 0.00482
+condition:coda -0.097176 0.142864 5.170 -0.680 0.52564
+condition:geminate -0.010571 0.075514 10.061 -0.140 0.89143
+age -0.018412 0.007828 5.152 -2.352 0.06388
+frame:labial -0.022247 0.014735 390.193 -1.510 0.13189
+condition:coda:age 0.010992 0.012066 5.124 0.911 0.40311
+condition:geminate:age 0.005488 0.006318 9.608 0.869 0.4062423
+
+===== PAGE 24 (obj 137) =====
+Table 6: Fixed-eect coecients for the model comparing velum displacement across syllable posi-
+tion, age, frame. Formula: displacement  condition * age + frame + (1 + condition j speaker)Eect Estimate Std. Error df t value p value(Intercept) 2.86806 0.36789 5.517 7.796 0.000352
+condition:coda -0.50913 0.48520 5.289 -1.049 0.339586
+condition:geminate -0.04327 0.28957 5.516 -0.149 0.886526
+age -0.08091 0.03078 5.268 -2.629 0.044288
+frame:labial 0.22426 0.05710 363.570 3.927 0.000103
+condition:coda:age 0.08115 0.04084 5.174 1.987 0.101742
+condition:geminate:age 0.03254 0.02383 4.971 1.365 0.230692Table 7: Fixed-eect coecients for the model comparing TT magnitude across syllable position,
+age, frame. Formula: TT magnitude  condition * age + frame + (1 + condition j speaker)Eect Estimate Std. Error df t value p value(Intercept) 2.06301 0.40847 5.252 5.051 0.00342
+condition:coda -0.19010 0.25251 5.390 -0.753 0.48311
+condition:geminate -0.07592 0.19252 21.468 -0.394 0.69720
+age -0.02104 0.03442 5.160 -0.611 0.56696
+frame:labial 0.23653 0.03912 369.778 6.046 3.62e-09
+condition:coda:age -0.02691 0.02117 5.183 -1.271 0.25766
+condition:geminate:age 0.01932 0.01582 19.229 1.221 0.23681Table 8: Fixed-eect coecients for the model comparing velum gesture duration across syllable
+position, age, and frame. Formula: durvelum  condition * age + frame + (1 + condition j
+speaker)Eect Estimate Std. Error df t value p value(Intercept) 850.242 44.057 5.244 19.298 4.51e-06
+condition:coda -98.614 67.941 5.452 -1.451 0.20166
+condition:geminate -11.254 44.793 9.845 -0.251 0.80680
+age -32.696 3.668 4.913 -8.913 0.000324
+frame:labial -22.137 8.095 369.333 -2.735 0.006546
+condition:coda:age 10.106 5.718 5.328 1.767 0.13379
+condition:geminate:age 6.498 3.704 9.006 1.754 0.11323Table 9: Fixed-eect coecients for the model comparing TT gesture duration across syllable
+position, age, and frame. Formula: durTT  condition * age + frame + (1 + condition j speaker)Eect Estimate Std. Error df t value p value(Intercept) 411.641 21.589 6.810 19.067 3.66e-07
+condition:coda -44.223 21.061 14.858 -2.100 0.05326
+condition:geminate 18.608 19.892 240.042 0.935 0.35049
+age -9.404 1.793 6.314 -5.246 0.00165
+frame:labial 45.098 4.288 374.147 10.518 <2e-16
+condition:coda:age 3.268 1.753 13.882 1.864 0.08357
+condition:geminate:age 1.367 1.629 227.864 0.840 0.4020524
+
+===== PAGE 25 (obj 139) =====
+Table 10: Fixed-eect coecients for the model predicting onset lag: lagonset  magvelum * age
+* durvelum + frame + (1 | spklabel)Eect Estimate Std. Error df t value p value(Intercept) 316.100 131.000 332.322 2.412 0.016401
+magvelum -151.200 52.010 372.500 -2.908 0.003861
+age -10.450 9.948 318.600 -1.051 0.294247
+durvelum -0.7193 0.2109 374.500 -3.411 0.000717
+frame:labial 32.800 4.412 375.000 7.435 7.17e-13
+magvelum:age 7.248 4.058 374.200 1.786 0.074915
+magvelum:durvelum 0.1892 0.0826 376.300 2.290 0.022576
+age:durvelum 0.01300 0.01723 374.000 0.755 0.450906
+magvelum:age:durvelum -0.009457 0.007034 376.800 -1.344 0.179627Table 11: Type III ANOVA (Satterthwaite) for the model: lagonset  magvelum * age * durvelum
++ frame + (1 | spklabel)Eect Sum Sq Mean Sq NumDF DenDF F value p valuemagvelum 14198 14198 1 372.50 8.4539 0.0038606
+age 1854 1854 1 318.57 1.1037 0.2942466
+durvelum 19542 19542 1 374.49 11.6360 0.0007174
+frame 92835 92835 1 374.98 55.2775 7.174e-13
+magvelum:age 5357 5357 1 374.20 3.1897 0.0749152
+magvelum:durvelum 8807 8807 1 376.30 5.2439 0.0225764
+age:durvelum 957 957 1 374.02 0.5696 0.4509059
+magvelum:age:durvelum 3035 3035 1 376.82 1.8074 0.1796269Table 12: Fixed-eect coecients for the model predicting tarons lag: lagtarons  magvelum *
+age * durvelum + frame + (1 | spklabel)Eect Estimate Std. Error df t value p value(Intercept) 463.773827 146.106017 157.715204 3.174 0.001807
+magvelum -85.295657 54.450146 374.791069 -1.566 0.118078
+age -25.239466 11.250832 122.586522 -2.243 0.026670
+durvelum -0.980639 0.220490 374.581172 -4.448 1.15e-05
+frame:labial 28.767703 4.578421 372.592324 6.283 9.26e-10
+magvelum:age 5.554326 4.243580 374.540869 1.309 0.191378
+magvelum:durvelum 0.268118 0.086206 374.047811 3.110 0.002013
+age:durvelum 0.067294 0.018019 374.673098 3.735 0.000217
+magvelum:age:durvelum -0.019542 0.007332 373.773839 -2.665 0.008028Table 13: Type III ANOVA (Satterthwaite) for the model: lagtarons  magvelum * age *
+durvelum + frame + (1 | spklabel)Eect Sum Sq Mean Sq NumDF DenDF F value p valuemagvelum 4420 4420 1 374.79 2.4539 0.1180776
+age 9064 9064 1 122.59 5.0326 0.0266705
+durvelum 35628 35628 1 374.58 19.7806 1.146e-05
+frame 71109 71109 1 372.59 39.4802 9.257e-10
+magvelum:age 3086 3086 1 374.54 1.7132 0.1913784
+magvelum:durvelum 17423 17423 1 374.05 9.6734 0.0020130
+age:durvelum 25120 25120 1 374.67 13.9470 0.0002173
+magvelum:age:durvelum 12794 12794 1 373.77 7.1033 0.008027725

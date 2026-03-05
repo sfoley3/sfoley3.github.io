@@ -8,20 +8,20 @@ I think a lot about food. I have been influenced by [Michael Pollan](https://mic
 
 Recently, I have tried to follow more of the rules in [*Food Rules*](https://michaelpollan.com/books/food-rules/). The core idea is: "Eat food. Not too much. Mostly plants." One rule I come back to often is: "Eat all the junk food you want as long as you cook it yourself."
 
-### Favorite restaurants
+### A few of my favorite restaurants
 
 - 御鲤湘 (Yu Li Xiang) - Shanghai, China
 - O Buraquinho da Se - Porto, Portugal
 - [Mayura](https://mayura-indian-restaurant.com/) - Los Angeles, California
 
-### Favorite books on food
+### A few of my favorite books on food
 
 - [*The Food of Sichuan*](https://wwnorton.com/books/9781324004837) by Fuchsia Dunlop
 - [*The Telling Room*](https://www.penguinrandomhouse.com/books/127991/the-telling-room-by-michael-paterniti/) by Michael Paterniti
 - [*The Cooking Gene*](https://thecookinggene.com/) by Michael W. Twitty
 
-### Recent eats (updated November 15, 2024)
+### Recent eats (updated 2/15/26)
 
-- Quesatacos at [Villa's Tacos](https://www.villastacos.com/)
-- Seafood pasta at [Giacomo's](https://www.giacomosboston.com)
-- Gan ban mian at [Mandarin Noodle House](https://mandarinnoodleca.com/)
+- [Baby Bistro](https://babybistrola.com/)
+- Japanese breakfast at [Azay](https://www.azaylittletokyo.com/home)
+- [Bub and Grandma's Pizza](https://bubspizza.com/)

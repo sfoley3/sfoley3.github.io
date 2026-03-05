@@ -1,0 +1,347 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 4 /Kids [ 4 0 R 6 0 R 8 0 R 10 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2938 >>
+stream
+BT
+/F1 10 Tf
+54 744 Td
+0 -14 Td
+(PEER REVIEW REPORT) Tj
+T*
+T*
+T*
+(Manuscript) Tj
+T*
+T*
+(**Title:** The development of velum coordination in children: a real-time MRI study) Tj
+T*
+(**Author:** Sean Foley) Tj
+T*
+(**Date on manuscript:** February 15, 2026) Tj
+T*
+T*
+(1\) Study Summary) Tj
+T*
+T*
+(This manuscript presents an rtMRI study of velum-tongue tip \(TT\) coordination in American) Tj
+T*
+(English-speaking children \(reported final sample: 7 female speakers, ages 5-15\). The main) Tj
+T*
+(questions concern developmental patterns in \(i\) velum-TT timing, \(ii\) velum magnitude, \(iii\)) Tj
+T*
+(velum duration, and \(iv\) timing stability. Stimuli contrast onset, coda, and juncture-geminate) Tj
+T*
+(nasal contexts in labial/alveolar frames. The key claim is that the two oldest speakers \(age) Tj
+T*
+(15\) pattern like adults \(onset near-synchrony; coda/geminate earlier velum lowering\), while) Tj
+T*
+(younger speakers largely show uniformly early velum lowering across conditions. The paper) Tj
+T*
+(further argues that velum target-to-TT onset lag is more stable than onset lag and may) Tj
+T*
+(therefore be the more relevant timing relation.) Tj
+T*
+T*
+(2\) Major Issues \(Priority\)) Tj
+T*
+T*
+T*
+(1. **Inference is stronger than design supports \(very small, non-independent sample\).**) Tj
+T*
+(The developmental interpretation is based on seven speakers \(with sibling pairs\), all female,) Tj
+T*
+(with clear clustering by age but sparse coverage. The sharp "stage shift" claim \(5-14 vs 15\) is) Tj
+T*
+(plausible but not well identified statistically with this sample structure. At minimum, claims) Tj
+T*
+(should be reframed as preliminary and exploratory.) Tj
+T*
+T*
+(2. **Statistical independence and pseudoreplication concerns are not fully addressed.**) Tj
+T*
+(Many token-level observations are modeled, but speaker-level N is very small. This risks) Tj
+T*
+(overconfident inference from repeated measures when between-speaker evidence is limited. The) Tj
+T*
+(manuscript should explicitly separate within-speaker effects from speaker-level developmental) Tj
+T*
+(generalizations.) Tj
+T*
+T*
+(3. **"Stability" is inferred from non-significance in correlation tests.**) Tj
+T*
+(The argument "no significant correlation => stability" is not sufficient, especially with small) Tj
+T*
+(per-speaker sample sizes and varying power. A better analysis would use equivalence testing,) Tj
+T*
+(confidence-interval bounds, or explicit variance-based stability metrics.) Tj
+T*
+T*
+(4. **Multiple testing strategy is under-specified.**) Tj
+T*
+(Many within-speaker pairwise Wilcoxon comparisons are reported, but there is no clear) Tj
+T*
+(correction strategy across the family of tests \(and figures use significance stars\). This can) Tj
+T*
+(inflate false positives.) Tj
+T*
+T*
+(5. **Methodological reporting has reproducibility gaps.**) Tj
+T*
+(Key details are missing or incomplete: number of usable tokens per condition after exclusions,) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 2723 >>
+stream
+BT
+/F1 10 Tf
+54 744 Td
+0 -14 Td
+(exclusion criteria at token level, inter-rater/retest reliability for manual alignment) Tj
+T*
+(corrections and landmark verification, and exact preprocessing/quality-control workflow for ROI) Tj
+T*
+(tracking.) Tj
+T*
+T*
+(6. **Several placeholders/incomplete statements remain in the draft.**) Tj
+T*
+(Examples include unresolved citations `\(?\)`, `\(??\)`, and incomplete numeric statements \(e.g.,) Tj
+T*
+(variance explained by PC1 listed as `%` with missing values\). These currently prevent full) Tj
+T*
+(scientific evaluation.) Tj
+T*
+T*
+(3\) Introduction / Literature Review) Tj
+T*
+T*
+T*
+(1. **Narrative is generally strong but contains unresolved citation gaps.**) Tj
+T*
+(There are multiple placeholder citations in core argumentation \(including developmental) Tj
+T*
+(coarticulation and timing claims\). These need to be resolved before review can evaluate) Tj
+T*
+(evidential support.) Tj
+T*
+T*
+(2. **Some redundancy could be reduced.**) Tj
+T*
+(The manuscript repeats similar framing points about under-studied timing and novelty in) Tj
+T*
+(multiple places. Condensing repeated background paragraphs would improve clarity and focus.) Tj
+T*
+T*
+(3. **Foundational theoretical framing could be expanded.**) Tj
+T*
+(Given the gestural-coordination claims, the introduction should anchor more directly in) Tj
+T*
+(foundational articulatory-phonology and dynamical timing references \(see recommended references) Tj
+T*
+(below\).) Tj
+T*
+T*
+(4\) Methods) Tj
+T*
+T*
+T*
+(1. **Participant description and dependency structure need clearer handling.**) Tj
+T*
+(Sibling pairs are included, and one participant is excluded. The manuscript should report) Tj
+T*
+(exactly how family structure is handled in modeling \(or why it is negligible\).) Tj
+T*
+T*
+(2. **Potential inconsistency in speaker IDs.**) Tj
+T*
+(The text mentions `Spk7` in ROI description, but participant table lists `Spk5, Spk8, Spk11a,) Tj
+T*
+(Spk11b, Spk14, Spk15a, Spk15b`. This inconsistency needs correction.) Tj
+T*
+T*
+(3. **ROI and landmark pipeline needs reproducibility metrics.**) Tj
+T*
+(Provide quantitative reliability checks: repeated ROI placement, intra-/inter-annotator) Tj
+T*
+(consistency for alignment correction and gestural landmarks, and error statistics.) Tj
+T*
+T*
+(4. **Control variables are limited for timing interpretation.**) Tj
+T*
+(Speech rate and prosodic variation are likely to affect timing/duration outcomes but are not) Tj
+T*
+(clearly controlled in primary models.) Tj
+T*
+T*
+(5. **Only low-vowel context is used.**) Tj
+T*
+(The manuscript acknowledges this limitation, but because intrinsic vowel nasalization can) Tj
+T*
+(affect velum behavior, this confound should be more central in interpretation.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 2275 >>
+stream
+BT
+/F1 10 Tf
+54 744 Td
+0 -14 Td
+T*
+(5\) Results) Tj
+T*
+T*
+T*
+(1. **Result patterns are interesting, but inferential framing should be softened.**) Tj
+T*
+(The age-linked patterns are suggestive, not definitive, with this sample.) Tj
+T*
+T*
+(2. **Model reporting should include diagnostics and uncertainty emphasis.**) Tj
+T*
+(Include assumptions checks, random-effect structure justification, potential) Tj
+T*
+(convergence/singularity notes, and effect-size interpretation beyond p-values.) Tj
+T*
+T*
+(3. **Per-speaker analyses need sample-size transparency.**) Tj
+T*
+(Report per-speaker per-condition token counts after all exclusions for every key figure and) Tj
+T*
+(regression.) Tj
+T*
+T*
+(6\) Discussion / Conclusions) Tj
+T*
+T*
+T*
+(1. **Some mechanistic claims are overextended.**) Tj
+T*
+(Claims that target-onset timing is encoded in cognitive representations are plausible but) Tj
+T*
+(should be presented as hypotheses consistent with data, not conclusions directly established by) Tj
+T*
+(the current design.) Tj
+T*
+T*
+(2. **Alternative explanations deserve fuller treatment.**) Tj
+T*
+(In addition to developmental control and inhibition accounts, discuss scanner-task effects,) Tj
+T*
+(speech-rate/prosodic differences, and lexical/item effects as competing contributors.) Tj
+T*
+T*
+(3. **Conclusion should better match evidential strength.**) Tj
+T*
+(Recommend reframing as evidence for a *candidate developmental pattern* requiring replication) Tj
+T*
+(in larger, more diverse samples.) Tj
+T*
+T*
+(7\) Clarity and Presentation Issues) Tj
+T*
+T*
+T*
+(1. Resolve all placeholder citations and figure cross-references.) Tj
+T*
+(2. Fix typographical/formatting artifacts \(e.g., special-character rendering issues\) in) Tj
+T*
+(extracted equations and text.) Tj
+T*
+(3. Correct grammar and consistency issues \(e.g., "this facts", "predicated" for "predicted",) Tj
+T*
+(etc.\).) Tj
+T*
+T*
+(8\) References Likely Missing but Important) Tj
+T*
+T*
+T*
+(The following references are strong candidates to include because they ground core claims about) Tj
+T*
+(gestural coordination and dynamical timing:) Tj
+T*
+T*
+(1. Browman, C. P., & Goldstein, L. \(1986\). *Towards an articulatory phonology.*) Tj
+T*
+(2. Browman, C. P., & Goldstein, L. \(1992\). *Articulatory phonology: An overview.*) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 833 >>
+stream
+BT
+/F1 10 Tf
+54 744 Td
+0 -14 Td
+(3. Saltzman, E., & Munhall, K. \(1989\). *A dynamical approach to gestural patterning in speech) Tj
+T*
+(production.*) Tj
+T*
+T*
+(Optional additional candidates \(depending on final framing\):) Tj
+T*
+T*
+(4. Additional foundational work on coordinative structures and temporal control in speech motor) Tj
+T*
+(behavior if the manuscript continues to emphasize stability as a control objective.) Tj
+T*
+T*
+(9\) Overall Recommendation) Tj
+T*
+T*
+(**Major revision.** The topic is strong, the rtMRI dataset is valuable, and the paper has clear) Tj
+T*
+(potential. But the current draft needs \(i\) complete citation/reporting cleanup, \(ii\) tighter) Tj
+T*
+(inferential claims matched to sample size, and \(iii\) stronger statistical/reproducibility) Tj
+T*
+(reporting before it is ready for publication.) Tj
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000136 00000 n 
+0000000206 00000 n 
+0000000332 00000 n 
+0000003322 00000 n 
+0000003448 00000 n 
+0000006223 00000 n 
+0000006349 00000 n 
+0000008676 00000 n 
+0000008804 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+9689
+%%EOF
