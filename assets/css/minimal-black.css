@@ -125,6 +125,39 @@ body {
   text-underline-offset: 2px;
 }
 
+.page-sean-foley .home-intro {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  gap: 34px;
+  align-items: start;
+}
+
+.page-sean-foley .home-intro__media {
+  justify-self: start;
+}
+
+.page-sean-foley .home-intro__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.page-sean-foley .home-intro__media-text {
+  margin: 0.5rem 0 0;
+  font-size: 0.95rem;
+}
+
+.page-sean-foley .home-intro__main {
+  justify-self: center;
+  max-width: 500px;
+  text-align: center;
+}
+
+.page-sean-foley .home-intro__main .home-links {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .page-sean-foley article.content a,
 .page-sean-foley .home-links a,
 .page-food article.content a {
@@ -160,5 +193,14 @@ body {
 
   .site {
     padding-top: 34px;
+  }
+
+  .page-sean-foley .home-intro {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .page-sean-foley .home-intro__media {
+    max-width: 220px;
   }
 }
