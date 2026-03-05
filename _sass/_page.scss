@@ -191,6 +191,23 @@
   }
 }
 
+.home-top-gif {
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 0 1.25rem 0;
+}
+
+.home-top-gif img {
+  display: block;
+  width: min(320px, 100%);
+  height: auto;
+}
+
+.home-top-gif__text {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.95rem;
+}
+
 /*
    Social sharing
    ========================================================================== */

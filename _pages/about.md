@@ -9,6 +9,11 @@ redirect_from:
   - /about.html
 ---
 
+<div class="home-top-gif">
+  <img src="/images/home-top-left.gif" alt="Featured animation" />
+  <p class="home-top-gif__text">This is my vocal tract.</p>
+</div>
+
 I am a fourth-year PhD student in the [Department of Linguistics](https://dornsife.usc.edu/ling/) at the University of Southern California, advised by [Louis Goldstein](https://sail.usc.edu/~lgoldste/me/) and [Shri Narayanan](https://sail.usc.edu/people/shri.html). I am also a trainee in the [Hearing and Communication Neuroscience](https://sites.usc.edu/hcn/trainees/) program and a member of [SAIL](https://sail.usc.edu) and [SPAN](https://sail.usc.edu/span/).
 
 My research focuses on experimental phonetics, computational speech science, and speech neuroscience. Before USC, I completed an MA in Linguistics at [UNC-Chapel Hill](https://linguistics.unc.edu/) advised by [Elliott Moreton](https://users.castle.unc.edu/~moreton/) and [Jeff Mielke](https://chass.ncsu.edu/people/jimielke/), and I previously lectured at [Shanghai International Studies University](http://en.shisu.edu.cn/).
