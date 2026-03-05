@@ -148,7 +148,7 @@ body {
 }
 
 .page-sean-foley .home-intro__main {
-  justify-self: center;
+  justify-self: start;
   max-width: 500px;
   text-align: left;
 }
